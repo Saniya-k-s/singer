@@ -5,3 +5,11 @@ name : Yeshudas
 industry : mollywood
 
 current status : active
+
+2. 
+
+name : A R Rahman
+
+industry : tollywood
+
+current status : active
